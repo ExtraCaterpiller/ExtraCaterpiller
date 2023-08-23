@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExtraCaterpiller
 - 👀 I’m interested in Web development and App development
-- 🌱 I’m currently learning HTML, CSS and JAVA
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
