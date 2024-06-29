@@ -1,10 +1,12 @@
 # Welcome to My GitHub Profile!
-Hi there! I'm @ExtraCaterpiller, a passionate developer and enthusiast in blockchain technology, smart contracts, decentralized applications and web developer. Here you'll find a collection of my projects and contributions in various fields of software development.
+Hi there! I'm @ExtraCaterpiller, a passionate developer and enthusiast in blockchain technology, smart contracts, decentralized applications, web development, machine learning and computer vision. Here you'll find a collection of my projects and contributions in various fields of software development.
 
 ## 🛠️ Technologies and Tools
 - Frontend: Next.js, React, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js, MongoDB, SQL
 - Blockchain: Ethereum, Solidity, Ethers.js, Hardhat
+- Machine Learning: TensorFlow, Keras, scikit-learn
+- Computer Vision: OpenCV, Tensorflow
 
 ## 🔭 Current Projects
 
@@ -19,6 +21,13 @@ Developing a decentralized autonomous organization with:
 
 - Smart Contracts: Solidity, Hardhat
 - Frontend: Next.js
+
+🤖 FaceNet Model
+A machine learning project for facial recognition, utilizing:
+
+- Framework: TensorFlow
+- Architechture: FaceNet model
+- Applications: Security, Authentication
 
 ## 🌱 Learning and Growing
 
