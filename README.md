@@ -1,8 +1,46 @@
-- 👋 Hi, I’m @ExtraCaterpiller
-- 👀 I’m interested in AI and web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Welcome to My GitHub Profile!
+Hi there! I'm @ExtraCaterpiller, a passionate developer and enthusiast in blockchain technology, smart contracts, decentralized applications and web developer. Here you'll find a collection of my projects and contributions in various fields of software development.
+
+## 🛠️ Technologies and Tools
+- Frontend: Next.js, React, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js, MongoDB, SQL
+- Blockchain: Ethereum, Solidity, Ethers.js, Hardhat
+
+## 🔭 Current Projects
+
+🚀 NFT Marketplace
+
+An innovative platform for buying and selling NFTs, built with:
+- Frontend: Next.js
+- Blockchain and Backend: Solidity, Hardhat, graph indexer
+
+🏛️ DAO Project
+Developing a decentralized autonomous organization with:
+
+- Smart Contracts: Solidity, Hardhat
+- Frontend: Next.js
+
+## 🌱 Learning and Growing
+
+I'm constantly learning new technologies and improving my skills. Currently, I'm diving deeper into:
+- Advanced Solidity Patterns
+- Layer 2 Solutions
+- Decentralized Finance (DeFi) Protocols
+
+## 📫 Connect with Me
+Feel free to reach out to me on:
+- [Email](atiqishrak7@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/atiq-ishrak-744a69229/)
+- [Facebook](https://www.facebook.com/atiq.ishrak)
+
+## 🌟 Featured Repositories
+- [Euphoria](https://github.com/ExtraCaterpiller/Euphoria)
+- [Simple Governance DAO](https://github.com/ExtraCaterpiller/Simple-Governance-DAO)
+- [Facenet Face Recognition](https://github.com/ExtraCaterpiller/Facenet-Face-Recognition)
+
+## 💞️ Let's Collaborate!
+
+I'm always open to collaborating on exciting projects. If you have an idea or a project you'd like to work on together, don't hesitate to get in touch!
 
 <!---
 ExtraCaterpiller/ExtraCaterpiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
