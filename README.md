@@ -4,7 +4,7 @@ Hi there! I'm @ExtraCaterpiller, a passionate developer and enthusiast in blockc
 ## 🛠️ Technologies and Tools
 - Frontend: Next.js, React, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js, MongoDB, SQL
-- Blockchain: Ethereum, Solidity, Ethers.js, Hardhat
+- Blockchain: Ethereum, Solidity, Ethers.js, Hardhat, Foundry
 - Machine Learning: TensorFlow, Keras, scikit-learn
 - Computer Vision: OpenCV, Tensorflow
 
